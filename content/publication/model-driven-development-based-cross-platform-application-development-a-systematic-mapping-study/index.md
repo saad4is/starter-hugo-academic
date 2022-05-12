@@ -7,6 +7,7 @@ publication_types:
 authors:
   - Saad Shafiq
   - Irum Inayat
+publication: Journal of Information Science and Engineering
 draft: false
 featured: false
 image:
