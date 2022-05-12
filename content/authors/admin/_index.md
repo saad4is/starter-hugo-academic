@@ -23,7 +23,7 @@ social:
     link: https://www.linkedin.com/in/saadshafiq
 organizations:
   - name: Johannes Kepler University
-    url: https://www.stanford.edu/
+    url: https://www.jku.at/
 education:
   courses:
     - course: Doctoral Researcher
