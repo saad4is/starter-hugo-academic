@@ -8,6 +8,8 @@ authors:
   - Volker Gruhn
   - Saad Shafiq
   - Irum Inayat
+publication: International Conference on Security, Privacy and Anonymity in
+  Computation, Communication and Storage
 draft: false
 featured: false
 image:
