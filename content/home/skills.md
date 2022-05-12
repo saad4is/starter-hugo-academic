@@ -17,10 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 100%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
     icon: chart-line
     icon_pack: fas
     name: Statistics
@@ -28,6 +24,10 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
+  - description: 100%
+    icon: r-project
+    icon_pack: fab
+    name: R
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
