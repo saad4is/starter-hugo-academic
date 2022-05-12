@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: saad4is@hotmail.com
+  phone: -
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 
+    city: Linz
+    region: 
+    postcode: ''
+    country: Austria
+    country_code: AT
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/saad4is'
     - icon: video
       icon_pack: fas
       name: Zoom Me
