@@ -1,7 +1,7 @@
 ---
 title: Saad Shafiq
 role: Researcher
-avatar_filename: saadshafiq.png
+avatar_filename: avatar.png
 bio: My research interests include software engineering, machine learning and
   natural language processing.
 interests:
