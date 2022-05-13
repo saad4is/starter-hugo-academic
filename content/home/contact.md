@@ -26,17 +26,17 @@ form:
 
 # Contact details (edit or remove options as required)
 email: saad4is@hotmail.com
-phone: 
+phone: 888 888 888
 address:
-  street: 
+  street: Austria
   city: Linz
   region: 
   postcode: ''
   country: Austria
   country_code: AT
 coordinates:
-  latitude: ''
-  longitude: ''
+  latitude: '37.9574'
+  longitude: '-107.5754'
 directions: 
 office_hours:
   - 'Monday 10:00 to 13:00'
