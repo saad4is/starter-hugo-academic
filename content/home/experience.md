@@ -26,7 +26,7 @@ experience:
     company: Johannes Kepler University
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Austria
     date_start: '2019-06-01'
     date_end: ''
     description: |2-
@@ -43,7 +43,7 @@ experience:
     company: MTBC
     company_url: ''
     company_logo: org-x
-    location: California
+    location: 
     date_start: '2019-02-01'
     date_end: '2019-05-01'
     description: |2-
@@ -61,7 +61,7 @@ experience:
     company: MTBC
     company_url: ''
     company_logo: org-x
-    location: California
+    location: 
     date_start: '2018-01-01'
     date_end: '2019-02-01'
     description: |2-
