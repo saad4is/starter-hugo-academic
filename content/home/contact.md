@@ -30,7 +30,7 @@ content:
   address:
     street: 
     city: Linz
-    region: 
+    region: Austria
     postcode: ''
     country: Austria
     country_code: AT
