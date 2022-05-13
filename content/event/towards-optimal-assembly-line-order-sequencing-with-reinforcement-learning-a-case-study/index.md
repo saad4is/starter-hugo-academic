@@ -14,6 +14,11 @@ event_url: https://2020.ieee-etfa.org/
 publishDate: 2022-05-13T09:20:10.493Z
 draft: false
 featured: false
+tags:
+  - Reinforcement
+  - Optimization
+categories:
+  - ML
 image:
   filename: featured
   focal_point: Smart
