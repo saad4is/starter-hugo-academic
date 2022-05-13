@@ -10,7 +10,7 @@ date: 2020-09-08T13:00:00.000Z
 date_end: 2020-09-08T16:00:00.000Z
 all_day: true
 event: ETFA 2020 Conference
-event_url: https://example.org
+event_url: https://2020.ieee-etfa.org/
 publishDate: 2017-01-01T00:00:00.000Z
 featured: false
 authors: []
