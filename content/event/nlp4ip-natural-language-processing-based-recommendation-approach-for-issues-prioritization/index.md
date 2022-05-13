@@ -6,6 +6,9 @@ location: Palermo, Italy
 date: 2021-09-02T09:10:15.597Z
 date_end: 2021-09-02T13:10:00.000Z
 all_day: false
+links:
+  - url: https://ieeexplore.ieee.org/document/9582582
+    name: paper
 event: SEAA 2021
 event_url: https://dsd-seaa2021.unipv.it/seaa/
 publishDate: 2022-05-13T09:10:15.608Z
