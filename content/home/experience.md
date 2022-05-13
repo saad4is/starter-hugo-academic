@@ -25,7 +25,7 @@ experience:
   - title: Doctoral Researcher
     company: Johannes Kepler University
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Austria
     date_start: '2019-06-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Blockchain Developer
     company: MTBC
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: 
     date_start: '2019-02-01'
     date_end: '2019-05-01'
@@ -60,7 +60,7 @@ experience:
   - title: Software Engineer
     company: MTBC
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: 
     date_start: '2018-01-01'
     date_end: '2019-02-01'
