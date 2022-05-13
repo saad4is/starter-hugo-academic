@@ -28,7 +28,7 @@ content:
   email: saad4is@hotmail.com
   phone: 
   address:
-    street: Austria
+    street: 
     city: Linz
     region: 
     postcode: ''
