@@ -31,7 +31,7 @@ content:
     street: 
     city: Linz
     region: 
-    postcode: ''
+    postcode:
     country: Austria
     country_code: AT
   coordinates:
