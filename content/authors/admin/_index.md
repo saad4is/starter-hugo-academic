@@ -1,5 +1,4 @@
 ---
-title: Saad Shafiq
 role: Researcher
 avatar_filename: avatar.png
 bio: My research interests include software engineering, machine learning and
@@ -28,13 +27,14 @@ education:
   courses:
     - course: Doctoral Researcher
       institution: Johannes Kepler University
-      year: 2023
+      year: 2022
     - course: M.S. in Software Engineering
       institution: National University of Computer and Emerging Sciences
       year: 2017
-email: saad4is@hotmail.com
 superuser: true
 highlight_name: true
+title: Saad Shafiq
+email: saad4is@hotmail.com
 ---
 Being a doctoral researcher at Johannes Kepler University, I primarily focus on Machine Learning applications, with ample experience in Full Stack .Net development, Blockchain technologies, C#, R, and Python. Considering myself an ambitious tech-savvy, I firmly believe in exploring contemporary technologies and utilizing those to enhance the organizational performance.
 
