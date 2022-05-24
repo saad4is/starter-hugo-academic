@@ -80,6 +80,36 @@ experience:
         * Managed support and helpdesk team to always cater to client needs
         * Analyzed and evaluated client requests in order to develop new functionality
 
+  - title: Research Assistant
+    company: National University of Computer and Emerging Sciences
+    company_url: ''
+    company_logo: 
+    location: 
+    date_start: '2016-01-01'
+    date_end: '2017-02-01'
+    description: |2-
+        Responsibilities include:
+
+        * Conducted research to identify major research gaps in the area of Requirements Engineering, Machine Learning, and Agile Software Development Processes
+        * Performed Social Network Analysis on large datasets using UCINet and Gephi
+        * Published research articles in Tier-1 and high impact journals and conferences
+        * Collaborated with the active researchers in the domain of Requirements Engineering, Data Science, Machine Learning, and Software Testing
+        * Analyzed large datasets and produced meaningful insights using contemporary machine learning algorithms
+
+  - title: Freelance Software Engineer
+    company: Fiverr
+    company_url: ''
+    company_logo: 
+    location: 
+    date_start: '2016-01-01'
+    date_end: '2017-02-01'
+    description: |2-
+        Responsibilities include:
+
+        * Full-Stack Asp.net Development
+        * Implemented Zendesk, Freshdesk for implementation and support operations
+        * Created infographic, company’s business projection-oriented videos
+
 design:
   columns: '2'
 ---
