@@ -86,7 +86,7 @@ experience:
     company_logo: 
     location: 
     date_start: '2016-01-01'
-    date_end: '2017-02-01'
+    date_end: '2017-01-01'
     description: |2-
         Responsibilities include:
 
@@ -101,8 +101,8 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: '2016-01-01'
-    date_end: '2017-02-01'
+    date_start: '2015-01-01'
+    date_end: '2017-01-01'
     description: |2-
         Responsibilities include:
 
