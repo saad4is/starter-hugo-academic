@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Tools: Python, R, SQL, Git, Pandas, Numpy, Scikit, Keras, Tensorflow, Pytorch, Neo4j
+        * Tech. stack: Python, R, SQL, Git, Pandas, Numpy, Scikit, Keras, Tensorflow, Pytorch, Neo4j
         * Worked on problems including classification, clustering, regression, and optimization
         * Implemented prototypes and POCs to improve software engineering life cycle using contemporary machine learning algorithms
         * Worked with NLP techniques including topic extraction, LDA, and sentiment analysis
