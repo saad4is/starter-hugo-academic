@@ -17,6 +17,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=mVCOGY4AAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ssshafiq
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/saadshafiq
