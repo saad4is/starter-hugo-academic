@@ -28,7 +28,7 @@ organizations:
     url: https://www.jku.at/
 education:
   courses:
-    - course: Doctoral Researcher
+    - course: Ph.D. in Computer Science
       institution: Johannes Kepler University
       year: 2022
     - course: M.S. in Software Engineering
