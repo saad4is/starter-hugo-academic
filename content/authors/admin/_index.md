@@ -14,6 +14,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/saad4is
+  - icon: Mastodon
+    icon_pack: fab
+    link: https://mastodon.acm.org/@saadshafiq"
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=mVCOGY4AAAAJ&hl=en
@@ -39,6 +42,6 @@ highlight_name: true
 title: Saad Shafiq
 email: saad4is@hotmail.com
 ---
-Being a doctoral researcher at Johannes Kepler University, I primarily focus on Machine Learning applications, with ample experience in Full Stack .Net development, Blockchain technologies, C#, R, and Python. Considering myself an ambitious tech-savvy, I firmly believe in exploring contemporary technologies and utilizing those to enhance the organizational performance.
+I primarily focus on Machine Learning applications, with ample experience in Full Stack .Net development, Blockchain technologies, C#, R, and Python. Considering myself an ambitious tech-savvy, I firmly believe in exploring contemporary technologies and utilizing those to enhance the organizational performance.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
