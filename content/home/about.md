@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Being a doctoral researcher at Johannes Kepler University, I
+widget_id: I
   primarily focus on Machine Learning applications, with ample experience in
   Full Stack .Net development, Blockchain technologies, C#, R, and Python.
   Considering myself an ambitious tech-savvy, I firmly believe in exploring
