@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/saad4is
   - icon: mastodon
-    icon_pack: fas
+    icon_pack: fab
     link: https://mastodon.acm.org/@saadshafiq
   - icon: graduation-cap
     icon_pack: fas
