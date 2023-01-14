@@ -11,9 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com/Saad.Shafiq
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/saad4is
