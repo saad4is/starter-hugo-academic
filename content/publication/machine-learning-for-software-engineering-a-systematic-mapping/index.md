@@ -11,7 +11,7 @@ publication: arXiv preprint arXiv:2005.13299
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2020-01-01T12:55:09.068Z
