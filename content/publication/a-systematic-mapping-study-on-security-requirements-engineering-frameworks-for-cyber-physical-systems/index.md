@@ -13,7 +13,7 @@ publication: International Conference on Security, Privacy and Anonymity in
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2018-12-11T12:53:14.216Z
