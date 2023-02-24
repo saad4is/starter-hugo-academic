@@ -11,7 +11,7 @@ publication: Journal of Information Science and Engineering
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2017-02-01T12:52:20.199Z
