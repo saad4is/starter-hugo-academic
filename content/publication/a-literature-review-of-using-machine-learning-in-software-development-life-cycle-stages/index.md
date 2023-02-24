@@ -12,7 +12,7 @@ publication: IEEE Access
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-10-13T11:57:36.991Z
