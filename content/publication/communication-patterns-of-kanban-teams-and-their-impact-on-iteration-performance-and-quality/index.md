@@ -12,7 +12,7 @@ publication: 2019 45th Euromicro Conference on Software Engineering and Advanced
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2019-01-01T12:54:11.999Z
