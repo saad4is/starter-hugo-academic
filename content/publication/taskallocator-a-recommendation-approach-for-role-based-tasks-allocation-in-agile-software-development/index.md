@@ -14,7 +14,7 @@ publication: 2021 IEEE/ACM Joint 15th International Conference on Software and
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-06-24T11:56:41.961Z
