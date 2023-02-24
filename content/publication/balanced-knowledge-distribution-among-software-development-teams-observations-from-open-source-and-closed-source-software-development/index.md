@@ -13,7 +13,7 @@ publication: arXiv preprint arXiv:2207.12851
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-07-26T14:03:16.187Z
