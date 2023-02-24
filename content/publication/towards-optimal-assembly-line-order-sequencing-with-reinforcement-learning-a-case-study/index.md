@@ -13,7 +13,7 @@ publication: 2020 25th IEEE International Conference on Emerging Technologies
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2020-09-08T11:55:58.071Z
