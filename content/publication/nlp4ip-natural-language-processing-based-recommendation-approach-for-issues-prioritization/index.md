@@ -13,7 +13,7 @@ publication: 2021 47th Euromicro Conference on Software Engineering and Advanced
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-10-01T11:57:06.184Z
