@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Austria
     date_start: '2019-06-01'
-    date_end: '2022-03-05'
+    date_end: '2023-03-05'
     description: |2-
         Responsibilities include:
         
