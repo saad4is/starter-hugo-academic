@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Austria
     date_start: '2023-06-19'
-    date_end: 'Current'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
