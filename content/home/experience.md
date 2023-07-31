@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Post-doc Researcher
+    company: Johannes Kepler University
+    company_url: ''
+    company_logo: 
+    location: Austria
+    date_start: '2023-06-19'
+    date_end: 'Current'
+    description: |2-
+        Responsibilities include:
+        
+        * Tech. stack: Python, R, SQL, Git, Pandas, Numpy, Scikit, Keras, Tensorflow, Pytorch, Javascript, Vuejs
+    
   - title: Researcher
     company: Johannes Kepler University
     company_url: ''
