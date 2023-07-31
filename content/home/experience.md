@@ -33,6 +33,7 @@ experience:
         Responsibilities include:
         
         * Tech. stack: Python, R, SQL, Git, Pandas, Numpy, Scikit, Keras, Tensorflow, Pytorch, Javascript, Vuejs
+        * Multivariate analysis, anomaly detection, LLMs
     
   - title: Researcher
     company: Johannes Kepler University
