@@ -80,6 +80,7 @@ experience:
     description: |2-
         Responsibilities include:
 
+        * Tech. stack: C#, .NET framework, SQL, razor pages, ASP.NET
         * Responsible for deployments to QA, Staging and Production environment as being the release owner in the team  
         * Responsible for merging the code of entire team on TFS
         * Rigorously followed agile methodologies (SCRUM, Kanban) in the development process using JIRA
