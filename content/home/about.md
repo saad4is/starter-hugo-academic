@@ -5,7 +5,8 @@ widget_id: I
   Full Stack .Net development, Blockchain technologies, C#, R, and Python.
   Considering myself an ambitious tech-savvy, I firmly believe in exploring
   contemporary technologies and utilizing those to enhance the organizational
-  performance.
+  performance. Please feel free to reach out if you wish to engage in a conversation 
+  regarding my work, exchange new research perspectives, and potentially embark on a collaborative journey.
 headless: true
 weight: 20
 title: Biography
