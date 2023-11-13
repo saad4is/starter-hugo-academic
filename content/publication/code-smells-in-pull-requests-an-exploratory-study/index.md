@@ -8,6 +8,7 @@ authors:
   - Saad Shafiq
   - Atif Mashkoor
   - and Alexander Egyed
+publication: "Software: Practice and Experience"
 draft: false
 featured: false
 image:
