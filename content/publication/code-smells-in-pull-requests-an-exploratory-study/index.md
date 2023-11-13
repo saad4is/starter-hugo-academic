@@ -1,7 +1,7 @@
 ---
 title: "Code smells in pull requests: An exploratory study"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Azeem
   - Muhammad Ilyas
