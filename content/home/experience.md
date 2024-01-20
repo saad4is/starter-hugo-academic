@@ -23,12 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Post-doc Researcher
+    company: University of Southern California
+    company_url: ''
+    company_logo: 
+    location: Austria
+    date_start: '2024-01-15'
+    date_end: ''
+    description: |2-
+    
+  - title: Post-doc Researcher
     company: Johannes Kepler University
     company_url: ''
     company_logo: 
     location: Austria
     date_start: '2023-06-19'
-    date_end: ''
+    date_end: '2024-01-09'
     description: |2-
         Responsibilities include:
         
