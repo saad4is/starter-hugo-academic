@@ -26,7 +26,7 @@ experience:
     company: University of Southern California
     company_url: ''
     company_logo: 
-    location: Austria
+    location: USA
     date_start: '2024-01-15'
     date_end: ''
     description: |2-
