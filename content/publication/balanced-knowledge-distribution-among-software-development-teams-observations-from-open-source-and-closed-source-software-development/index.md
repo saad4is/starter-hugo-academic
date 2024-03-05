@@ -2,14 +2,14 @@
 title: Balanced Knowledge Distribution among Software Development
   Teams--Observations from Open-Source and Closed-Source Software Development
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Saad Shafiq
   - Christoph Mayr-Dorn
   - Atif Mashkoor
   - Alexander Egyed
-doi: ""
-publication: arXiv preprint arXiv:2207.12851
+doi: https://doi.org/10.1002/smr.2655
+publication: "Journal of Software: Evolution and Process"
 draft: false
 featured: false
 image:
