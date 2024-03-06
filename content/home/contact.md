@@ -29,11 +29,11 @@ content:
   phone: 
   address:
     street: 
-    city: Linz
-    region: Austria
+    city: Los Angeles
+    region: USA
     postcode: ''
-    country: Austria
-    country_code: AT
+    country: USA
+    country_code: USA
   coordinates:
     latitude: ''
     longitude: ''
