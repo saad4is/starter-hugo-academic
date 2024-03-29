@@ -28,8 +28,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/saadshafiq
 organizations:
-  - name: Johannes Kepler University
-    url: https://www.jku.at/
+  - name: University of Southern California
+    url: https://www.usc.edu/
 education:
   courses:
     - course: Ph.D. in Computer Science
