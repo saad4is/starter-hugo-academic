@@ -11,6 +11,8 @@ authors:
   - Saad Shafiq
   - Alexander Egyed
 doi: 10.1109/SANER60148.2024.00023
+publication: 2024 IEEE International Conference on Software Analysis, Evolution
+  and Reengineering (SANER)
 abstract: ""
 draft: false
 featured: false
@@ -21,5 +23,6 @@ image:
   focal_point: Smart
   preview_only: false
   caption: ""
+  alt_text: Distinguished Paper Award
 date: 2024-07-23T19:40:06.872Z
 ---
