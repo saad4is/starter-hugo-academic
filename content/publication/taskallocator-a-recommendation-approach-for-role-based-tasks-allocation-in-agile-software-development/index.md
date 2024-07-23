@@ -11,6 +11,7 @@ authors:
 publication: 2021 IEEE/ACM Joint 15th International Conference on Software and
   System Processes (ICSSP) and 16th ACM/IEEE International Conference on Global
   Software Engineering (ICGSE)
+publication_short: Distinguished Paper Award Nominee
 draft: false
 featured: false
 image:
