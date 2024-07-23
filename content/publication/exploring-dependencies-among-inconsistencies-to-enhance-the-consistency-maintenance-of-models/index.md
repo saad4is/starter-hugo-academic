@@ -10,6 +10,8 @@ authors:
   - Edvin Herac
   - Saad Shafiq
   - Alexander Egyed
+author_notes:
+  - Distinguished Paper Award
 doi: 10.1109/SANER60148.2024.00023
 publication: 2024 IEEE International Conference on Software Analysis, Evolution
   and Reengineering (SANER)
