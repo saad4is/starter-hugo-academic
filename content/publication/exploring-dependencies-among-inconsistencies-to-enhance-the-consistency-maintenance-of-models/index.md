@@ -1,6 +1,7 @@
 ---
 title: Exploring Dependencies Among Inconsistencies to Enhance the Consistency
   Maintenance of Models
+subtitle: Distinguished Paper Award
 publication_types:
   - "1"
 authors:
@@ -16,6 +17,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  caption: Distinguished Paper Award
+  caption: ""
 date: 2024-07-23T19:40:06.872Z
 ---
