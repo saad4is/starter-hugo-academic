@@ -11,8 +11,11 @@ authors:
   - Saad Shafiq
   - Alexander Egyed
 doi: 10.1109/SANER60148.2024.00023
+abstract: ""
 draft: false
 featured: false
+tags:
+  - Distinguished Paper Award
 image:
   filename: featured
   focal_point: Smart
