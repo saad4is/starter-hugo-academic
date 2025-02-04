@@ -2,6 +2,7 @@
 title: "Program Committee Member: Research track EASE 2025"
 subtitle: https://conf.researchr.org/home/ease-2025
 date: 2025-02-04T20:22:59.467Z
+summary: https://conf.researchr.org/home/ease-2025
 draft: false
 featured: false
 image:
@@ -9,3 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+https://conf.researchr.org/home/ease-2025
