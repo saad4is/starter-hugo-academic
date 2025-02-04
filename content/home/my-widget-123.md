@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: my-widget-123
+widget_id: services
 headless: true
 weight: 60
 title: Services
