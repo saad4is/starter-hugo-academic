@@ -1,5 +1,6 @@
 ---
 title: "Program Committee Member: Research track EASE 2025"
+subtitle: https://conf.researchr.org/home/ease-2025
 date: 2025-02-04T20:22:59.467Z
 draft: false
 featured: false
