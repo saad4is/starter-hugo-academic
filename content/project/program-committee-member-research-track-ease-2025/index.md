@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-https://conf.researchr.org/home/ease-2025
+https://conf.researchr.org/track/ease-2025/ease-2025-research-papers
