@@ -7,7 +7,8 @@ bio: My research interests include software engineering, machine learning,
 interests:
   - Software Engineering
   - Machine Learning
-  - Information Retrieval
+  - Software Security
+  - Software/AI Modernization
 social:
   - icon: envelope
     icon_pack: fas
