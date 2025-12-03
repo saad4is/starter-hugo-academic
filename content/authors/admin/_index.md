@@ -2,8 +2,8 @@
 title: Saad Shafiq
 role: Researcher
 avatar_filename: avatar.png
-bio: My research interests include software engineering, machine learning and
-  natural language processing.
+bio: My research interests include software engineering, machine learning,
+  software security and software/AI modernization.
 interests:
   - Software Engineering
   - Machine Learning
