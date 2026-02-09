@@ -130,7 +130,7 @@ experience:
         Responsibilities include:
 
         * Full-Stack Asp.net Development
-        * Implemented Zendesk, Freshdesk for implementation and support operations
+        * Implemented Zendesk, Freshdesk for support operations
         * Created infographic, company’s business projection-oriented videos
 
 design:
