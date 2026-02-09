@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: saad4is@hotmail.com
+  email: saad4is(at)hotmail(dot)com
   phone: 
   address:
     street: 
